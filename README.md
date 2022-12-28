@@ -11,11 +11,11 @@ Adapt the layout of your invoices to your company's needs. Build an individual b
 
 <p align="center">
 <a href="https://betterbills.io/?mtm_campaign=github&mtm_kwd=bill_image">
-<img src="https://betterbills.io/wp-content/uploads/simple-791x1024.png" width="300" height="388" />
+<img src="https://betterbills.io/wp-content/uploads/simple-232x300.png" width="232" height="300" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://betterbills.io/wp-content/uploads/modern-791x1024.png" width="300" height="388" />
+<img src="https://betterbills.io/wp-content/uploads/modern-232x300.png" width="232" height="300" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://betterbills.io/wp-content/uploads/custom-791x1024.png" width="300" height="388" />
+<img src="https://betterbills.io/wp-content/uploads/custom-232x300.png" width="232" height="300" />
 </a>
 </p>
 
@@ -32,6 +32,18 @@ Adapt the layout of your invoices to your company's needs. Build an individual b
 ✔ **Works on Android and Web**: Use BetterBills wherever you want. Our Web and native Android apps allow you to stay flexible.
 
 ✔ **Get started in minutes**: With a lot of preset options, BetterBills lets you get started in minutes, not days.
+
+## Migration from Microsoft Word
+
+In case you need invoice templates for Microsoft Word or want to know about the advantages of using a professional invoice management system, checkout our [article on the case](https://betterbills.io/word-invoice-templates-free-download/?mtm_campaign=github&mtm_kwd=word_text).
+
+<p align="center">
+<a href="https://betterbills.io/word-invoice-templates-free-download/?mtm_campaign=github&mtm_kwd=word_image">
+<img src="https://betterbills.io/wp-content/uploads/Word-Invoice-Templates-Free-Download-Professional-232x300.png" width="232" height="300" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://betterbills.io/wp-content/uploads/Word-Invoice-Templates-Free-Download-Modern-232x300.png" width="232" height="300" />
+</a>
+</p>
 
 ## Android App - Download BetterBills To Your Smartphone
 
