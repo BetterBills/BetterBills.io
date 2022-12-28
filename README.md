@@ -33,6 +33,12 @@ Adapt the layout of your invoices to your company's needs. Build an individual b
 
 ✔ **Get started in minutes**: With a lot of preset options, BetterBills lets you get started in minutes, not days.
 
+## Advantages of an Invoice Management System
+
+There are various advantages of using a professional invoice management system that works on multiple devices.
+
+[Our writeup](https://betterbills.io/create-invoices-on-smartphone-or-tablet/?mtm_campaign=github&mtm_kwd=text) explains all of them in detail.
+
 ## Migration from Microsoft Word
 
 In case you need invoice templates for Microsoft Word or want to know about the advantages of using a professional invoice management system, checkout our [article on the case](https://betterbills.io/word-invoice-templates-free-download/?mtm_campaign=github&mtm_kwd=word_text).
